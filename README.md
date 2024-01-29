@@ -20,7 +20,7 @@ Feel free to explore the code and provide feedback. If you have any questions or
 
 List the challenges you've completed along with links to the respective solutions.
 
-1. **Social Links Profile** - [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) - [Solution](#)
+1. **Social Links Profile** - [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) 
 
 2. ...
 
