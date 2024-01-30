@@ -4,11 +4,13 @@ This repository contains my solutions to challenges from Frontend Mentor. Fronte
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Challenges](#challenges)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Frontend Mentor Challenges Solutions](#frontend-mentor-challenges-solutions)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Challenges](#challenges)
+  - [Technologies Used](#technologies-used)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -22,7 +24,7 @@ List the challenges you've completed along with links to the respective solution
 
 1. **Social Links Profile** - [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) 
 
-2. ...
+2. **Meet landing page** - [Challenge Link](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) 
 
 ## Technologies Used
 
