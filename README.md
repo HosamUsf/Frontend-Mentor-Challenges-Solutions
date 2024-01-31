@@ -24,7 +24,7 @@ List the challenges you've completed along with links to the respective solution
 
 1. **Social Links Profile** - [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) 
 
-2. **Meet landing page** - [Challenge Link](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) 
+2. **Workit landing page** - [Challenge Link](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu) 
 
 ## Technologies Used
 
