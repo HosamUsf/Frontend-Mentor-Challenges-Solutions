@@ -26,6 +26,8 @@ List the challenges you've completed along with links to the respective solution
 
 2. **NFT preview card component** - [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) 
 
+3.**Results summary component** - [Challenge Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) 
+
 ## Technologies Used
 
 List the main technologies or languages you've used in your solutions.
