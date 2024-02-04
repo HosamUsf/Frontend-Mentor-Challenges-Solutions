@@ -26,7 +26,9 @@ List the challenges you've completed along with links to the respective solution
 
 2. **NFT preview card component** - [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) 
 
-3.**Results summary component** - [Challenge Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) 
+ 3.**Results summary component** - [Challenge Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) 
+ 
+ 4. **FAQ accordion** - [Challenge Link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
 
 ## Technologies Used
 
