@@ -23,7 +23,7 @@ Feel free to explore the code and provide feedback. If you have any questions or
 List the challenges you've completed along with links to the respective solutions.
 
 1. **Social Links Profile** - [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
-    ![Uploading social-links-.png…]()
+  ![social-links-](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/1f7771cd-04df-432a-adad-781896e3febf)
 
 
 2. **NFT preview card component** - [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
