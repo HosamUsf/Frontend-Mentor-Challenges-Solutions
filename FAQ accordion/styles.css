@@ -27,8 +27,8 @@ body{
 
 .container{
     background: var(--White);
-    width: 550px;
-    padding: 30px 40px;
+    width: 450px;
+    padding: 30px 50px;
     border-radius: 25px;
     display: flex;
     flex-direction: column;
