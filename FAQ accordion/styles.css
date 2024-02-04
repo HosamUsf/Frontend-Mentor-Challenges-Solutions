@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap');
 :root{
-    --White: hsl(0, 0%, 100%)
-    --Light-pink: hsl(275, 100%, 97%)
-    --grayish-purple: hsl(292, 16%, 49%)
-    --dark-purple: hsl(292, 42%, 14%)
+    --White: hsl(0, 0%, 100%);
+    --Light-pink: hsl(275, 100%, 97%);
+    --grayish-purple: hsl(292, 16%, 49%);
+    --dark-purple: hsl(292, 42%, 14%);
 }
 
 *{
@@ -13,4 +13,53 @@
     font-family: 'Work Sans' ,sans-serif;
 }
 
+body{
+    background: url(./images/background-pattern-desktop.svg) no-repeat ;
+    background-size: 100%;
+    background-color: var(--Light-pink);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
 
+.container{
+    background: var(--White);
+    width: 550px;
+    padding: 30px 40px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;  
+}
+.container .faq-headline{
+    display: flex;
+    gap: 20px;
+}
+.container .faq-headline h1{
+    font-weight: 700;
+    color: var(--dark-purple);
+}
+
+.container .question{
+    color: var(--dark-purple);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container p {
+    color: var(--grayish-purple);
+}
+.container .question img{
+    cursor: pointer;
+}
+
+.hidden{
+    display: none;
+}
+.container hr{
+    border: 1px solid #d3d3d3;
+}
