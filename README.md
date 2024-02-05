@@ -38,6 +38,8 @@ List the challenges you've completed along with links to the respective solution
     ![Faq](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/bc44f6be-bf6e-4025-be74-cb9177fcd390)
 
 5. **Stats preview card component**  - [Challenge Link](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+  ![image](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/22396f21-95eb-48ce-a859-f7e1d35f2d10)
+
 
 
 ## Technologies Used
