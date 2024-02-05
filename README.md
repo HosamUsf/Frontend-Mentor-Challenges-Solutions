@@ -34,8 +34,10 @@ List the challenges you've completed along with links to the respective solution
     ![xals0mqfmph6kcspsezk-jpg-1440×1080-](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/305e5e09-c049-4699-84a8-e37a87ae7e86)
 
  
-5. **FAQ accordion** - [Challenge Link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
+4. **FAQ accordion** - [Challenge Link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
     ![Faq](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/bc44f6be-bf6e-4025-be74-cb9177fcd390)
+
+5. **Stats preview card component**  - [Challenge Link](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
 
 ## Technologies Used
