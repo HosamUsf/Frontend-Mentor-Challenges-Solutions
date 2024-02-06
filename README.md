@@ -40,6 +40,9 @@ List the challenges you've completed along with links to the respective solution
 5. **Stats preview card component**  - [Challenge Link](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
   ![image](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/22396f21-95eb-48ce-a859-f7e1d35f2d10)
 
+6. **Testimonials grid section**  - [Challenge Link](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+  ![desktop-design](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/99b3d118-5aa6-40e9-ae98-092deec54abb)
+
 
 
 ## Technologies Used
