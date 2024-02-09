@@ -43,6 +43,9 @@ List the challenges you've completed along with links to the respective solution
 6. **Testimonials grid section**  - [Challenge Link](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
   ![desktop-design](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/99b3d118-5aa6-40e9-ae98-092deec54abb)
 
+7. **Fylo landing page with two-column layout** - [Challenge Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
+  
+
 
 
 ## Technologies Used
