@@ -32,16 +32,16 @@ List the challenges you've completed along with links to the respective solution
   ![nft](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/2409c1b7-91aa-47f4-9659-75520a57be37)
 
 
-4. **Results summary component** - [Challenge Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+3. **Results summary component** - [Challenge Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
-    ![xals0mqfmph6kcspsezk-jpg-1440×1080-](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/305e5e09-c049-4699-84a8-e37a87ae7e86)
+  ![xals0mqfmph6kcspsezk-jpg-1440×1080-](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/305e5e09-c049-4699-84a8-e37a87ae7e86)
 
  
-5. **FAQ accordion** - [Challenge Link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
+4. **FAQ accordion** - [Challenge Link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
 
-     ![Faq](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/bc44f6be-bf6e-4025-be74-cb9177fcd390)
+  ![Faq](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/bc44f6be-bf6e-4025-be74-cb9177fcd390)
 
-6. **Stats preview card component**  - [Challenge Link](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+5. **Stats preview card component**  - [Challenge Link](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
   ![image](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/22396f21-95eb-48ce-a859-f7e1d35f2d10)
 
@@ -49,9 +49,9 @@ List the challenges you've completed along with links to the respective solution
 
   ![desktop-design](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/99b3d118-5aa6-40e9-ae98-092deec54abb)
 
-8. **Fylo landing page with two-column layout** - [Challenge Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
+7. **Fylo landing page with two-column layout** - [Challenge Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
 
-    ![desktop-preview](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/8483a0f4-bf95-4c16-af35-ac9a0b710e34)
+  ![desktop-preview](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/8483a0f4-bf95-4c16-af35-ac9a0b710e34)
 
 
 
