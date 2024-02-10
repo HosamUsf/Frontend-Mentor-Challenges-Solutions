@@ -161,13 +161,13 @@ p{
     padding: 6rem 0;
 }
 
-.row .col-1 h2{
+.team .row .col-1 h2{
     font-size: 2rem;
     color: var(--light-grayish-blue);
     margin-bottom: 1.5rem;
 }
 
-.row .col-1 p{
+.team .row .col-1 p{
     color: var(--light-gray);
     margin-right: 7rem;
 }
@@ -193,4 +193,129 @@ p{
     cursor: pointer;
     font-weight: 700;
     font-family: 'Raleway', sans-serif;
+}
+.footer{
+    background-color: var(--dark-blue);
+    color: var(--light-gray);
+    padding: 5rem 0;
+}
+.footer .row{
+    grid-template-columns: 2fr repeat(3,1fr);
+    color: var(--light-gray);
+    padding: 1rem;
+}
+
+.footer .logo-white{
+    margin-bottom: 1rem;
+}
+.footer .col-1 .col-info{
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.footer .col-1 .col-info img{
+    margin-right: 10px;
+}
+
+.footer  .row li{
+    margin-bottom: 15px;
+    list-style: none;
+}
+.footer  .row  a{
+    color: var(--light-gray);
+}
+.footer .row .col-4 {
+    display: flex;
+}
+
+.footer .row .col-4 i{
+    border: 1px solid var(--light-gray);
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 2;
+    margin: 0 10px;
+}
+
+
+/* tablet */
+@media (max-width:1000px){
+    .row{
+        grid-template-columns:1fr;
+    }
+    #head .row,
+    .team .row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #head .row h1,
+    #head .row p,
+    .team .row h2 ,
+    .sign-in h2 , .sign-in  {
+        text-align: center;
+    }
+
+    #head .row input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .team{
+        background: url(./images/bg-curve-mobile.svg) center center/cover no-repeat;
+    }
+    .team h2{
+        margin-top: 2rem;
+        font-size: 28px;
+    }
+    .team .link{
+        text-align: center;
+
+    }
+    .team .row .card{
+        margin: 2rem auto 0 ;
+        width: 300px;
+        padding: 20px;
+    }
+    .team .row .col-1 p{
+        margin-right: 0;
+    }
+    .row .col-2 input{
+        margin: 30px 0  15px;
+        width: 100%;
+    }
+
+    .footer .row{
+        grid-template-columns:1fr;
+        row-gap: 2rem;
+    }
+
+    .footer .row .col-4{
+        margin: auto;
+    }
+
+
+
+
+}
+
+/* Mobile */
+
+@media (max-width:650px){
+    #head .logo{
+        width: 80px;
+    }
+    .container{
+        margin: 0 1rem;
+    }
+    .navbar  ul a {
+        margin: 0 10px;
+        font-size: 14px;
+    }
+    #head .row h1{
+        font-size: 28px;
+        margin-top: 2rem;
+    }
+
 }
