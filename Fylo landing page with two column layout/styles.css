@@ -37,6 +37,8 @@ ul{
 a{
     text-decoration: none;
 }
+p{
+}
 
 .navbar{
     display: flex;
@@ -69,8 +71,12 @@ a{
     line-height: 1.4;
 }
 
-.row .content p{
+#head .row .content p{
     padding: 1.9rem 0 ; 
+    color: var(--dark-blue) ;
+    padding-right: 5rem;
+    font-weight: 500;
+
 }
 
 .row .content input{
@@ -88,4 +94,86 @@ a{
     width: 150px;
     cursor: pointer;
 }
+.team{
+    background:url(./images/bg-curve-desktop.svg) no-repeat center/cover;
+}
+.row h2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
 
+}
+
+.team .row .content > p{
+    color: var(--desaturated-blue);
+    padding-right: 5rem;
+    margin: 1.25rem 0;
+    color: var(--dark-blue) ;
+
+}
+
+.team .row .content a {
+    color: var(--moderate-cyan);
+    border-bottom: 1px solid var(--moderate-cyan);
+
+}
+
+.row .content .card{
+    background-color: white; 
+    border-radius: 10px;   
+    margin-top: 3rem;
+    padding: 2rem;
+    width: 350px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.row .content .card p{
+    font-size: 13px;
+    margin: 15px 0 ;
+    line-height: 1.7;
+    color: var(--dark-blue) ;
+}
+
+.card .prof{
+    display: flex;
+    align-items: center;
+}
+.card img{
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.card .card--info h3{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.team .row .content .card .card--info p {
+    font-size: 10px;
+    margin: 0;
+}
+
+.sign-in{
+    background-color: var(--desaturated-blue);
+    color: white;
+}
+.sign-in .row{
+    padding: 6rem 0;
+}
+
+.row .col-1 h2{
+    font-size: 2rem;
+    color: var(--light-grayish-blue);
+    margin-bottom: 1.5rem;
+}
+
+.row .col-1 p{
+    color: var(--light-gray);
+    margin-right: 7rem;
+}
+
+.row .col-2 input{
+    display: block;
+    padding: 1.25rem;
+    width: 90%;
+}
