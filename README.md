@@ -49,7 +49,7 @@ List the challenges you've completed along with links to the respective solution
 
   ![desktop-design](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/99b3d118-5aa6-40e9-ae98-092deec54abb)
 
-7. **Fylo landing page with two-column layout** - [Challenge Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
+7. **Fylo landing page ** - [Challenge Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
 
   ![desktop-preview](https://github.com/HosamUsf/Frontend-Mentor-Challenges-Solutions/assets/57178026/8483a0f4-bf95-4c16-af35-ac9a0b710e34)
 
